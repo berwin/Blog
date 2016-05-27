@@ -2,7 +2,7 @@
 
 高质量文章
 * [深入浅出 - Koa](https://github.com/berwin/Blog/issues/8)
-* [深入浅出 - Koa2](https://github.com/berwin/Blog/issues/8)
+* [深入浅出 - Koa2](https://github.com/berwin/Blog/issues/9)
 * [深入浅出 - Redux](https://github.com/berwin/Blog/issues/4)
 
 [点击进入查看所有文章](https://github.com/berwin/Blog/issues)
