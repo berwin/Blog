@@ -1,7 +1,7 @@
 # Blog
 
 高质量文章
-* [深入浅出 - vue之深入响应式原理](https://github.com/berwin/Blog/issues/10)
+* [深入浅出 - vue之深入响应式原理](https://github.com/berwin/Blog/issues/11)
 * [深入浅出 - Koa](https://github.com/berwin/Blog/issues/8)
 * [深入浅出 - Koa2](https://github.com/berwin/Blog/issues/9)
 * [深入浅出 - Redux](https://github.com/berwin/Blog/issues/4)
