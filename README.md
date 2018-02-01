@@ -11,13 +11,24 @@
 
 [点击进入查看所有文章](https://github.com/berwin/Blog/issues)
 
+
+## 技术分享PPT
+
+* [《深入浅出Vue.js - VirtualDOM篇》](https://ppt.baomitu.com/p/2afbd5b9)
+* [《Vue 项目架构设计与工程化实践》](https://slides.com/berwin/vue-architecture-design-and-engineering-practice/live#/)
+* [《Vue变化侦测原理》](https://slides.com/berwin/vue-change-detection/live#/)
+* [聊聊类型转换](https://ppt.baomitu.com/p/e6515023)
+* [《Koa》](http://berwin.github.io/ppts/koa/)
+* [《Co原理》](http://berwin.github.io/ppts/co/)
+* [《promise》](http://berwin.github.io/ppts/promise/)
+
 ## About
 
 大家好，我叫 **刘博文**，我喜欢把我的网名叫做 **berwin**，因为他是博文的谐音。
 
-我出生于1995年，13年来北京工作，那时候应该是刚满18周岁。15年加入360最大前端团队**[奇舞团](http://www.75team.com/)**，目前在360导航事业部。
+我出生于1995年，13年来北京工作，那时候应该是刚满18周岁。15年加入360最大前端团队[奇舞团](http://www.75team.com/)，目前在360导航事业部。
 
-关于我的经历，其实还挺其妙的，我上初一时，每天被高年级的学姐要钱，我每天家里给5块钱的零花钱，然后每周都要上缴给学姐5块钱的保护费，所以我每天都要攒一块钱给学姐，每周的周五定时交保护费。
+关于我的经历，其实还挺奇妙的，我上初一时，每天被高年级的学姐要钱，我每天家里给5块钱的零花钱，然后每周都要上缴给学姐5块钱的保护费，所以我每天都要攒一块钱给学姐，每周的周五定时交保护费。
 
 后来我实在是受不了被人欺负，本身又比较憧憬学校老大那屌屌的样子，每天有钱还有漂亮妹子，所以我果断加入了他们的行列。用了一年的时间将我们界的各班级老大都打平，然后莫名的彼此不在互相争斗，而是握手言和共同统治整个学校。
 
