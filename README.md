@@ -18,7 +18,7 @@
 * [《Vue 项目架构设计与工程化实践》](https://slides.com/berwin/vue-architecture-design-and-engineering-practice/live#/)
 * [《Vue变化侦测原理》](https://slides.com/berwin/vue-change-detection/live#/)
 * [《聊聊类型转换》](https://ppt.baomitu.com/p/e6515023)
-* [《Koa》](http://berwin.github.io/ppts/koa/)
+* [《Koa原理》](http://berwin.github.io/ppts/koa/)
 * [《Co原理》](http://berwin.github.io/ppts/co/)
 * [《promise》](http://berwin.github.io/ppts/promise/)
 
