@@ -52,3 +52,9 @@
 我的梦想是成为一名最卓越，最出色，世界Top几的工程师。
 
 这些年，我也一直在努力成为一名出色的工程师，专注javascript，专注nodejs
+
+## 联系方式
+
+知乎：https://www.zhihu.com/people/berwin-95/activities
+
+微博：http://weibo.com/berwin95
