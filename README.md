@@ -15,7 +15,7 @@
 
 ## 技术分享PPT
 
-* [《深入浅出Vue.js - VirtualDOM篇》](https://ppt.baomitu.com/p/2afbd5b9)
+* [《深入浅出Vue.js - VirtualDOM篇》](https://ppt.baomitu.com/d/2afbd5b9)
 * [《Vue 项目架构设计与工程化实践》](https://slides.com/berwin/vue-architecture-design-and-engineering-practice)
 * [《Vue变化侦测原理》](https://slides.com/berwin/vue-change-detection/)
 * [《聊聊类型转换》](https://ppt.baomitu.com/p/e6515023)
