@@ -1,6 +1,8 @@
 # Blog
 
 高质量文章
+* [嗨，送你一张Web性能优化地图](https://github.com/berwin/Blog/issues/23)
+* [为什么Vue使用异步更新队列？](https://github.com/berwin/Blog/issues/22)
 * [聊聊我对现代前端框架的认知](https://github.com/berwin/Blog/issues/20)
 * [深入浅出 - vue变化侦测原理](https://github.com/berwin/Blog/issues/17)
 * [Vue 项目架构设计与工程化实践](https://github.com/berwin/Blog/issues/14)
