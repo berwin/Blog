@@ -1,6 +1,7 @@
 # Blog
 
 高质量文章
+* [2018你应该知道的Web性能信息采集指南](https://github.com/berwin/Blog/issues/25)
 * [嗨，送你一张Web性能优化地图](https://github.com/berwin/Blog/issues/23)
 * [为什么Vue使用异步更新队列？](https://github.com/berwin/Blog/issues/22)
 * [聊聊我对现代前端框架的认知](https://github.com/berwin/Blog/issues/20)
