@@ -19,7 +19,7 @@
 
 ## 技术分享PPT
 
-* [《W3C TPAC 2018 Review》](https://slides.com/berwin/w3c-tpac-2018-review/live#/)
+* [《W3C TPAC 2018 Review - 分享TPAC内容》](https://slides.com/berwin/w3c-tpac-2018-review/live#/)
 * [《南瓜屋 - 技术解决方案与Vue最佳实践》](https://ppt.baomitu.com/d/8a94cafc)
 * [《深入浅出Vue.js - VirtualDOM篇》](https://ppt.baomitu.com/d/2afbd5b9)
 * [《Vue 项目架构设计与工程化实践》](https://slides.com/berwin/vue-architecture-design-and-engineering-practice)
