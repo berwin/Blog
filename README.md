@@ -51,6 +51,8 @@
 
 除了这里，还可以在其他的地方找到我。
 
+掘金：https://juejin.im/user/5a179bc16fb9a0451e3f7a92
+
 知乎：https://www.zhihu.com/people/berwin-95/activities
 
 微博：http://weibo.com/berwin95
