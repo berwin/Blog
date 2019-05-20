@@ -1,6 +1,7 @@
 # Blog
 
 高质量文章
+* [时间切片（Time Slicing）](https://github.com/berwin/Blog/issues/38)
 * [关于“放量”](https://github.com/berwin/Blog/issues/37)
 * [Vue.js 模板解析器原理 - 来自《深入浅出Vue.js》第九章](https://github.com/berwin/Blog/issues/36)
 * [让你的网页更丝滑（一）](https://github.com/berwin/Blog/issues/35)
