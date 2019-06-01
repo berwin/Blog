@@ -1,6 +1,7 @@
 # Blog
 
 高质量文章
+* [让你的网页更丝滑（全）](https://github.com/berwin/Blog/issues/39)
 * [时间切片（Time Slicing）](https://github.com/berwin/Blog/issues/38)
 * [关于“放量”](https://github.com/berwin/Blog/issues/37)
 * [Vue.js 模板解析器原理 - 来自《深入浅出Vue.js》第九章](https://github.com/berwin/Blog/issues/36)
@@ -26,6 +27,7 @@
 
 ## 技术分享PPT
 
+* [《让你的网页更丝滑》](https://ppt.baomitu.com/d/b267a4a3)
 * [《W3C TPAC 2018 Review - 分享如何改变Web世界》](https://slides.com/berwin/w3c-tpac-2018-review/)
 * [《南瓜屋 - 技术解决方案与Vue最佳实践》](https://ppt.baomitu.com/d/8a94cafc)
 * [《深入浅出Vue.js - VirtualDOM篇》](https://ppt.baomitu.com/d/2afbd5b9)
