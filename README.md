@@ -1,6 +1,7 @@
 ## 高质量文章
 
 #### Web性能
+* [Web性能领域常见的专业术语](https://github.com/berwin/Blog/issues/46)
 * [捕获FMP的原理](https://github.com/berwin/Blog/issues/42)
 * [让你的网页更丝滑（全）](https://github.com/berwin/Blog/issues/39)
 * [时间切片（Time Slicing）](https://github.com/berwin/Blog/issues/38)
