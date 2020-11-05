@@ -79,4 +79,5 @@
 
 除了这里，还可以在其他的地方找到我。
 
+Twitter（活跃）：https://twitter.com/jiuwu_lbw
 知乎：https://www.zhihu.com/people/berwin-95/activities
