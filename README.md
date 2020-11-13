@@ -13,6 +13,7 @@
 * [嗨，送你一张Web性能优化地图](https://github.com/berwin/Blog/issues/23)
 
 #### 经验总结
+* [我在阿里半年收获的成长](https://github.com/berwin/Blog/issues/50)
 * [小程序底层实现原理及一些思考](https://github.com/berwin/Blog/issues/43)
 * [小程序底层实现原理及一些思考2](https://github.com/berwin/Blog/issues/49)
 * [需求分析与开发时间评估](https://github.com/berwin/Blog/issues/40)
