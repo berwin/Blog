@@ -1,6 +1,7 @@
 ## 高质量文章
 
 #### 经验总结
+* [【经济学+前端技术】双视角分析 - 哪些技术值得投入学习](https://github.com/berwin/Blog/issues/51)
 * [我在阿里半年收获的成长](https://github.com/berwin/Blog/issues/50)
 * [小程序底层实现原理及一些思考](https://github.com/berwin/Blog/issues/43)
 * [小程序底层实现原理及一些思考2](https://github.com/berwin/Blog/issues/49)
