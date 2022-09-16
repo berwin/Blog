@@ -55,7 +55,7 @@
 
 ## About
 
-刘博文（Berwin），花名“玖五”，畅销书[《深入浅出Vue.js》](https://item.jd.com/12573168.html)作者、Speaker、阿里巴巴集团大淘宝前端技术专家。现负责淘系包含天猫双11在内的超大型营销活动会场的终端渲染架构以及营销活动在新交互（3D、XR、多人实时互动等）领域的探索。擅长代码与架构的设计并在大淘宝技术Coding Master大赛荣获Golden Coding Master称号（第一名）。
+刘博文（Berwin），花名“玖五”，畅销书[《深入浅出Vue.js》](https://item.jd.com/12573168.html)作者、Speaker、阿里巴巴集团大淘宝前端技术专家。现负责淘系包含天猫双11在内的超大型营销活动会场的终端渲染架构以及营销活动在新交互（3D、XR、多人实时互动等）领域的探索。擅长代码与架构的设计并在大淘宝技术Coding Master大赛荣获Golden Coding Master称号（第一名专属）。
 
 简单经历：
 
